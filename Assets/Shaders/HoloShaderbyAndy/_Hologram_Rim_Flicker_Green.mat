@@ -94,8 +94,13 @@ Material:
     - _FlickerSpeed: 17
     - _Fold: 63
     - _Glitch: 1
+<<<<<<< HEAD
     - _GlitchIntensity: 12.47
     - _GlitchSpeed: 25
+=======
+    - _GlitchIntensity: 10.25
+    - _GlitchSpeed: 24.1
+>>>>>>> master
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
@@ -109,8 +114,13 @@ Material:
     - _RimFalloff: 0.1
     - _RimPower: 0.6
     - _RimStrength: 2.5
+<<<<<<< HEAD
     - _ScanSpeed: -0.69
     - _ScanTiling: 10
+=======
+    - _ScanSpeed: 2
+    - _ScanTiling: 3.3
+>>>>>>> master
     - _Scanline: 0
     - _ScanlineSize: 1
     - _ScanlineSpeed: 2
