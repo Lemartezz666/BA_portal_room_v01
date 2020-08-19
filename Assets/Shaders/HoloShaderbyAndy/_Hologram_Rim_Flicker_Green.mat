@@ -110,7 +110,7 @@ Material:
     - _RimPower: 0.6
     - _RimStrength: 2.5
     - _ScanSpeed: -0.69
-    - _ScanTiling: 10
+    - _ScanTiling: 6.9
     - _Scanline: 0
     - _ScanlineSize: 1
     - _ScanlineSpeed: 2
