@@ -3,7 +3,22 @@ guid: 7a37f7aabc3ce014c9ca346a69c3e00b
 ModelImporter:
   serializedVersion: 19300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LP_BothSidesithUV7Mat
+    second: {fileID: 2100000, guid: 30401aa1801f68f42b830812a1c154dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LP_BothSidesithUV7ShapeHiddenFacesSet_defaultHideFaceDataSet_LP_BothSidesithUV7Mat
+    second: {fileID: 2100000, guid: 3101fea977550a3459892e4b6d23c150, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: textureEditorIsolateSelectSet_LP_BothSidesithUV7Mat
+    second: {fileID: 2100000, guid: 30401aa1801f68f42b830812a1c154dd, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0

@@ -213,7 +213,7 @@ Material:
     - _RefractionModel: 0
     - _RimPower: 4.6
     - _SSRefractionProjectionModel: 0
-    - _ScanSpeed: 1
+    - _ScanSpeed: -1.48
     - _ScanTiling: 0.05
     - _Smoothness: 0.5
     - _SmoothnessRemapMax: 1
