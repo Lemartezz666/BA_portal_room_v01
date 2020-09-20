@@ -81,7 +81,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _FlickerTex:
-        m_Texture: {fileID: 2800000, guid: 7cbf58e74118f944bbbedde56cd6f63f, type: 3}
+        m_Texture: {fileID: 2800000, guid: f86355b42af25b04396d1a4fc47a740a, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _HeightMap:
@@ -170,7 +170,7 @@ Material:
     - _ATDistance: 1
     - _AddPrecomputedVelocity: 0
     - _AlbedoAffectEmissive: 0
-    - _Alpha: 0.41
+    - _Alpha: 0.1
     - _AlphaCutoff: 0.5
     - _AlphaCutoffEnable: 0
     - _AlphaCutoffPostpass: 0.5
@@ -180,7 +180,7 @@ Material:
     - _AlphaSrcBlend: 1
     - _Anisotropy: 0
     - _BlendMode: 0
-    - _Brightness: 0.1
+    - _Brightness: 0.3
     - _BumpScale: 1
     - _CoatMask: 0
     - _CullMode: 2
@@ -222,16 +222,16 @@ Material:
     - _EnableGeometricSpecularAA: 0
     - _EnergyConservingSpecularColor: 1
     - _Flicker: 0
-    - _FlickerSpeed: 2
+    - _FlickerSpeed: 10
     - _Fold: 35
     - _Glitch: 1
     - _GlitchIntensity: 1
-    - _GlitchSpeed: 0
+    - _GlitchSpeed: 3.8
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
-    - _GlowSpeed: 3.6
-    - _GlowTiling: 0.15
+    - _GlowSpeed: 1
+    - _GlowTiling: 0.07
     - _HeightAmplitude: 0.02
     - _HeightCenter: 0.5
     - _HeightMapParametrization: 0
@@ -261,11 +261,11 @@ Material:
     - _ReceivesSSR: 1
     - _RefractionModel: 0
     - _RimFallness: 0.537
-    - _RimPower: 5.4
+    - _RimPower: 10
     - _RimStrength: 1.54
     - _SSRefractionProjectionModel: 0
-    - _ScanSpeed: 0.01
-    - _ScanTiling: 10
+    - _ScanSpeed: -0.46
+    - _ScanTiling: 5.4
     - _Scanline: 0
     - _ScanlineSpeed: -0.15
     - _ScanlineTiling: 8.5
@@ -325,8 +325,8 @@ Material:
     - _EmissiveColorLDR: {r: 0, g: 0, b: 0, a: 1}
     - _InvPrimScale: {r: 1, g: 1, b: 0, a: 0}
     - _IridescenceThicknessRemap: {r: 0, g: 1, b: 0, a: 0}
-    - _MainColor: {r: 1, g: 1, b: 1, a: 0}
-    - _RimColor: {r: 1, g: 1, b: 1, a: 0}
+    - _MainColor: {r: 0.028390888, g: 0.5471698, b: 0.4554963, a: 0}
+    - _RimColor: {r: 0.019090435, g: 0.31132078, b: 0.30501515, a: 0}
     - _ScanlineColor: {r: 0, g: 0, b: 1, a: 1}
     - _SpecularColor: {r: 1, g: 1, b: 1, a: 1}
     - _ThicknessRemap: {r: 0, g: 1, b: 0, a: 0}
