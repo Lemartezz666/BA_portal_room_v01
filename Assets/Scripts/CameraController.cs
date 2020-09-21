@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CameraController2 : MonoBehaviour {
+public class CameraController : MonoBehaviour {
 
 	public float velocity = 20; // km/h
 
