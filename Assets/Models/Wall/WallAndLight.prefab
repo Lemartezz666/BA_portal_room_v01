@@ -126,6 +126,7 @@ GameObject:
   - component: {fileID: 361307353860981357}
   - component: {fileID: 6400111824802623881}
   - component: {fileID: 2086791921845715598}
+  - component: {fileID: 414401385492937289}
   m_Layer: 0
   m_Name: sword_on_wall_low_transform19
   m_TagString: Untagged
@@ -194,6 +195,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!64 &414401385492937289
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5735421017247096282}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 5701876949637832937, guid: eb57869b2b2fe6d41bf5d02d7e3603d3, type: 3}
 --- !u!1 &6557459677550390877
 GameObject:
   m_ObjectHideFlags: 0
@@ -408,6 +423,7 @@ GameObject:
   - component: {fileID: 2343345024767677223}
   - component: {fileID: 994503601119680174}
   - component: {fileID: 1203567864718156296}
+  - component: {fileID: 7115742414660567504}
   m_Layer: 0
   m_Name: wall_low4
   m_TagString: Untagged
@@ -476,6 +492,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!64 &7115742414660567504
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7091121615395320961}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -4626600089513299995, guid: eb57869b2b2fe6d41bf5d02d7e3603d3, type: 3}
 --- !u!1 &7662257565740062083
 GameObject:
   m_ObjectHideFlags: 0
